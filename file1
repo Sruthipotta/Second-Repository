@@ -1,3 +1,5 @@
 def func(a,b):
     return a+b
 print(func(3,5))
+
+print(func(10,15))
